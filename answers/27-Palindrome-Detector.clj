@@ -1,0 +1,1 @@
+(true? (#(= (seq %) (reverse %)) "racecar"))
